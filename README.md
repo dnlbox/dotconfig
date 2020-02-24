@@ -29,6 +29,8 @@ install brew using regular terminal
 - `brew install cask android-platform-tools` adb on the command line among other things
 - `brew install wget`
 
+source: [Brew](https://brew.sh/)
+
 ## iTerm
 
 ### General
@@ -38,7 +40,7 @@ install brew using regular terminal
 
 ### ZSH (oh-my-zsh)
 
-### [Antigen][2]
+### Antigen
 
 ```
 # Load the oh-my-zsh's library.
@@ -55,6 +57,8 @@ antigen theme robbyrussell
 antigen apply
 ```
 
+source: [Antigen](https://github.com/zsh-users/antigen)
+
 ### Alias
 
 - to open iOS Simulator from the command line:
@@ -62,7 +66,3 @@ antigen apply
 
 - general alias on .bash_profile:
 `alias l='ls -lh' && alias ll='ls -lah'`
-
-## Links:
-[1] [Brew](https://brew.sh/)
-[2] [Antigen](https://github.com/zsh-users/antigen)

@@ -12,7 +12,7 @@
 
 __Fira__: https://github.com/mozilla/Fira (no ligatures)
 
-## [Brew][1]
+## Brew
 
 install brew using regular terminal
 - `brew install cask`

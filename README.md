@@ -2,13 +2,17 @@
 
 ## MacOSX
 
-- to make super+tab faster on fullscreen:
-Accessibility enable `Display > Reduce motion`
++ to make super+tab faster on fullscreen:
+  - Accessibility enable `Display > Reduce motion`
 
-- because dark side is more fun:
-On General, enable `Use dark menu bar and Dock`
++ because dark side is more fun:
+  - On General, enable `Use dark menu bar and Dock`
 
-## Brew
+### Font
+
+__Fira__: https://github.com/mozilla/Fira (no ligatures)
+
+## [Brew][1]
 
 install brew using regular terminal
 - `brew install cask`
@@ -25,9 +29,6 @@ install brew using regular terminal
 - `brew install cask android-platform-tools` adb on the command line among other things
 - `brew install wget`
 
-Links:
-[1] [Brew](https://brew.sh/)
-
 ## iTerm
 
 ### General
@@ -37,7 +38,7 @@ Links:
 
 ### ZSH (oh-my-zsh)
 
-### Antigen - Bundle manager
+### [Antigen][2]
 
 ```
 # Load the oh-my-zsh's library.
@@ -54,9 +55,6 @@ antigen theme robbyrussell
 antigen apply
 ```
 
-Links:
-[1] [Antigen](https://github.com/zsh-users/antigen)
-
 ### Alias
 
 - to open iOS Simulator from the command line:
@@ -64,3 +62,7 @@ Links:
 
 - general alias on .bash_profile:
 `alias l='ls -lh' && alias ll='ls -lah'`
+
+## Links:
+[1] [Brew](https://brew.sh/)
+[2] [Antigen](https://github.com/zsh-users/antigen)

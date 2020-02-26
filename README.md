@@ -1,5 +1,12 @@
 # Dev Setup
 
+## Why care about this?
+
+As a craftsman, care about the tools you use to perform your craft it is essencial and a sign of respect for the craft.
+- keep your tools clean (specially the screen);
+- be familiar with the tools;
+- collaborate when possible.
+
 ## MacOSX
 
 + to make super+tab faster on fullscreen:

@@ -1,0 +1,78 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "terminal.integrated.fontFamily": "Source Code Pro",
+    "editor.fontFamily": "Fira Mono",
+    "editor.fontSize": 14,
+    "workbench.colorTheme": "Material Theme Darker",
+    "javascript.validate.enable": false,
+    "java.errors.incompleteClasspath.severity": "ignore",
+    "explorer.confirmDelete": false,
+    "workbench.fontAliasing": "antialiased",
+    "editor.lineHeight": 24,
+    "explorer.confirmDragAndDrop": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "prettier-eslint.eslintIntegration": true,
+    "files.insertFinalNewline": true,
+    "window.title": "${activeEditorFull}${separator}${rootName}",
+    "editor.tabSize": 2,
+    "files.trimTrailingWhitespace": true,
+    "editor.formatOnPaste": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "window.zoomLevel": 0,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "editor.minimap.enabled": false,
+    "java.configuration.checkProjectSettingsExclusions": false,
+    "python.venvPath": "${workspaceFolder}/.venv/bin/python",
+    "python.sortImports.path": ".venv/bin/python",
+    "terminal.integrated.shell.osx": "/bin/zsh",
+    "search.maintainFileSearchCache": true,
+    "search.showLineNumbers": true,
+    "search.smartCase": true,
+    "workbench.tips.enabled": false,
+    "explorer.openEditors.visible": 0,
+    "workbench.statusBar.visible": true,
+    "workbench.activityBar.visible": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorStyle": "underline",
+    "terminal.integrated.cursorStyle": "underline",
+    "editor.matchBrackets": "never",
+    "markdown.preview.lineHeight": 1.5,
+    "[dart]": {
+      "editor.formatOnSave": true,
+      "editor.formatOnType": true,
+      "editor.rulers": [
+        80
+      ],
+      "editor.selectionHighlight": false,
+      "editor.suggest.snippetsPreventQuickSuggestions": false,
+      "editor.suggestSelection": "first",
+      "editor.tabCompletion": "onlySnippets",
+      "editor.wordBasedSuggestions": false,
+      "files.insertFinalNewline": true
+    },
+    "editor.lightbulb.enabled": false,
+    "C_Cpp.updateChannel": "Insiders",
+    "workbench.editor.showTabs": false,
+    "[typescriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.quickSuggestions": {
+      "other": false,
+      "comments": false,
+      "strings": false
+    },
+    "editor.parameterHints.enabled": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "html.suggest.html5": false,
+    "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.formatOnSave": true,
+    "files.autoSave": "onWindowChange",
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+  }

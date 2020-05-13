@@ -23,7 +23,7 @@ __Fira__: https://github.com/mozilla/Fira (no ligatures)
 
 install brew using regular terminal
 - `brew install cask`
-- `brew install cask iterm`
+- `brew cask install iterm2`
 - `brew install zsh zsh-completions zsh-syntax-highlighting antigen`
 - `brew install git`
 - `brew install yarn`

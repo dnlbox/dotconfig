@@ -19,6 +19,11 @@ As a craftsman, care about the tools you use to perform your craft it is essenci
 
 __Fira__: https://github.com/mozilla/Fira (no ligatures)
 
+#### Install using Homebrew Cask Fonts (https://github.com/Homebrew/homebrew-cask-fonts)
+
+`brew tap Homebrew/cask-fonts` (https://github.com/Homebrew/homebrew-cask/blob/master/USAGE.md)  
+`brew cask install font-fira-code font-fira-mono font-fira-sans` (https://github.com/Homebrew/homebrew-cask-fonts)  
+
 ## Brew
 
 install brew using regular terminal
